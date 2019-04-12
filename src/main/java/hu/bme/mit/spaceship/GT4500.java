@@ -16,7 +16,7 @@ public class GT4500 implements SpaceShip {
   }
 
   public boolean fireLaser(FiringMode firingMode) {
-    // TODO badly and poorly implemented
+    // TODO badly and poorly implemented, horrible
     return true;
   }
 
